@@ -1,1 +1,2 @@
 Norsk på norsk eller svensk eller dansk
+10.	Switch back to master
